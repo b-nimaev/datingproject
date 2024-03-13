@@ -1,0 +1,7 @@
+.env
+node_modules
+.log
+dist
+output.log
+log.txt
+/api
